@@ -11,7 +11,7 @@ There are challenges faced when scrapping a web page such as:
    - Durability: Websites constantly change. Say you’ve built a shiny new web scraper that automatically cherry-picks what you want from your resource of interest. The first time you run your script, it works flawlessly. But when you run the same script only a short while later, you run into a discouraging and lengthy stack of tracebacks!
 
 ## Prerequisites
-Please ensure that [Python 3](https://docs.python.org/3/download/) is installed on your development machine. 
+Please ensure that [Python 3](https://www.python.org/downloads/) is installed on your development machine. 
 
 Installation instructions vary depending on your system. See the linked website for more information.
 
