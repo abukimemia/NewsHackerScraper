@@ -1,7 +1,6 @@
 # Building a web scraper using Beautiful Soup python library
 ## Overview
-**Web scraping** is the process of gathering information from the Internet. We will implement a python library named [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) to pulling data out of HTML files on a web page. In this project we will be scraping a [n
-ews webpage](https://news.ycombinator.com/news) and outputting the following: 
+**Web scraping** is the process of gathering information from the Internet. We will implement a python library named [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) to pulling data out of HTML files on a web page. In this project we will be scraping a [news webpage](https://news.ycombinator.com/news) and outputting the following: 
    - A Unique URL link of a news source, 
    - the news title, 
    - the count of votes it has gathered on the news site.
